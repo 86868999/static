@@ -1,4 +1,4 @@
-<!-- Favicon - bat dau -->
+<!-- Favicon - begin -->
 <link rel="shortcut icon" href="https://static.thaison.link/sonlt/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://static.thaison.link/sonlt/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://static.thaison.link/sonlt/favicon-32x32.png">
@@ -8,4 +8,4 @@
 <meta name="msapplication-TileColor" content="#2d89ef">
 <meta name="msapplication-config" content="https://static.thaison.link/sonlt/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-<!-- Favicon - het -->
+<!-- Favicon - end -->
